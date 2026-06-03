@@ -5,7 +5,7 @@
 
 Application web interactive développée avec Streamlit pour visualiser les données géospatiales et météorologiques de la région **Eddakhla-Oued Eddahab**.
 
-🔗 **Application déployée :** *(lien à ajouter après déploiement)*
+🔗 **Application déployée :https://projetgis-npxkgc8nmfcglep7yxmqhn.streamlit.app/ 
 
 ---
 
